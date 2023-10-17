@@ -1,2 +1,2 @@
 # JavaCrawler
-Creating a webcrawler in Java. 
+Creating a basuc web crawler in Java. Compile main method using JRE with javac, java. 
